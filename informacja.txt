@@ -1,0 +1,7 @@
+Po³¹czenie HTML/CSS z baz¹ danych (PHP). 
+
+Wykorzystano:
+
+-formularz z polem SELECT oraz metod¹ POST,
+-zewnêtrzny plik style.css oraz connect.php do nawiaznia po³¹czenia z baz¹,
+-bazê do podgrania w php.myadmin - biblioteka.sql

@@ -1,0 +1,44 @@
+body {
+	background-color:black;
+	color:white;
+
+}
+h1 {
+	color:white;
+	font-size:58px;
+	text-align:center;
+	font-family:arial;
+}
+h3 {
+	font-family:lato;
+	font-size:20px;
+}
+#pojemnik0,#pojemnik1,#pojemnik3 {
+	float:left;
+	color:white;
+	width:300px;
+}
+#pojemnik3 {
+	font-size:16px;
+	font-family:Arial;
+	text-align:left;
+	margin-left:5%;
+}
+#pojemnik0, #pojemnik {
+	text-align:center;
+	color:white;
+	font-family:lato;
+	margin-left:5%;
+	margin-right:5%;
+}
+select {
+	width:80%;
+}
+input {
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:auto;
+	width:80%;
+	
+}
